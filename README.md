@@ -21,4 +21,4 @@
 
 ## Live Preview
 
-- (Live Demo)[]
+- (Live Demo)[https://taiyoai-fe-assignment.netlify.app/]
